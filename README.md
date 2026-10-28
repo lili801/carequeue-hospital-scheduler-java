@@ -83,10 +83,6 @@ Enter Max Slots: 1
 
 ---
 
-## 👨‍💻 Author
-
-**Prathmesh Navale**
-
 
 ---
 
